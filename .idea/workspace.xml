@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87e2ba4f-889d-4d40-86c7-059bf9137123" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="ea35a396-0c1c-4b9a-895c-be052cae6af6" />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/nlp-tools/nlp-tools" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1dwqcBmzkCOFL3hCdNM3AWtYgdX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jobboard" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\UIUIA\jobboard" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87e2ba4f-889d-4d40-86c7-059bf9137123" name="Default Changelist" comment="" />
+      <created>1593346579788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593346579788</updated>
+      <workItem from="1593346581034" duration="2017000" />
+      <workItem from="1593777747504" duration="8665000" />
+      <workItem from="1593955889652" duration="6648000" />
+      <workItem from="1594117472111" duration="2836000" />
+      <workItem from="1594129405029" duration="4820000" />
+      <workItem from="1594550927363" duration="1623000" />
+      <workItem from="1594558951963" duration="4597000" />
+      <workItem from="1594823564886" duration="1911000" />
+      <workItem from="1594990771456" duration="1555000" />
+      <workItem from="1595080447856" duration="7599000" />
+      <workItem from="1595332802744" duration="6321000" />
+      <workItem from="1595340387993" duration="7057000" />
+      <workItem from="1595425954858" duration="6926000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="476" y="3" key="#PHP" timestamp="1593784067494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="476" y="3" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1593784067494" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1595334624811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595334624811" />
+    <state x="591" y="227" key="NewPhpClassDialog" timestamp="1593783141984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="591" y="227" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1593783141984" />
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1593785582926">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1593785582926" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1593347342322">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593347342322" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1595426097794">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595426097794" />
+  </component>
+</project>
